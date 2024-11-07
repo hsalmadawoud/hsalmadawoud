@@ -9,7 +9,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 **Student:** Computer Engineering.  
-- 💡 **Interests:** Embedded Systems, Mobile App Development, Arduino, and ARM.  
+- 💡 **Interests:** Embedded Systems. 
 - 📱 **Projects:**  
   - Developed a **Mobile App**.  
   - Worked on **Arduino** and **ARM-based projects**.  
